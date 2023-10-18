@@ -1,18 +1,11 @@
-body {
-    background-color: #393E46;
-}
-
 h1 {
-    margin: 30px;
     font-family: 'Lobster', cursive;
-    text-shadow: 5px 0 #232931;
+    text-shadow: 5px 0 #393E46;
     font-size: 8rem;
-    color: #4ECCA3;
 }
 
 p {
     font-size: 2rem;
-    color: #4ECCA3;
     font-family: 'Indie Flower', cursive;
 }
 
@@ -20,10 +13,6 @@ img {
     width: 80%;
   }
 
-.container {
-    text-align: center;
-    margin: auto;
-}
 
 .dado {
     text-align: center;
@@ -32,7 +21,6 @@ img {
 
 footer {
     margin-top: 5%;
-    color: #EEEEEE;
     text-align: center;
     font-family: 'Indie Flower', cursive;
 }
